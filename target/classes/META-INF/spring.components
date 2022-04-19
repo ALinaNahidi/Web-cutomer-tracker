@@ -1,4 +1,5 @@
 com.springdemo.controller.CustomerController=org.springframework.stereotype.Component
 com.springdemo.dao.CustomerDAOImpl=org.springframework.stereotype.Component
 com.springdemo.entity.Customer=javax.persistence.Entity,javax.persistence.Table
+com.springdemo.service.CustomerServiceImpl=org.springframework.stereotype.Component
 com.testdb.TestDbServlet=javax.servlet.annotation.WebServlet
